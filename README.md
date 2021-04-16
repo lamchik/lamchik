@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi, I'm Lamara 👋
 
 <!--
 **lamchik/lamchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**I'm junior front-end developer from Russia. 
+
+:hammer: What I do? 
+I create adaptive responsive single-page cross-browser web applications.
+
+What I use:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
