@@ -11,8 +11,10 @@ I create adaptive responsive single-page cross-browser web applications.
 :four: HTML5, CSS3 <br>
 :five: Node.js <br>
 
-I want to improve as a front-end developer and work with professionals.
-
+I want to improve as a front-end developer and work with professionals.<br>
+My contacts <br>
+email: lamaralanchava@gmail.com <br>
+facebook: https://www.facebook.com/lamara.lanchava/ <br>
 <!--
 **lamchik/lamchik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
