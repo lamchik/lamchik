@@ -12,6 +12,7 @@ I create adaptive responsive single-page cross-browser web applications.
 :five: Node.js <br>
 
 I want to improve as a front-end developer and work with professionals.<br>
+
 My contacts <br>
 email: lamaralanchava@gmail.com <br>
 facebook: https://www.facebook.com/lamara.lanchava/ <br>
