@@ -13,7 +13,11 @@ I create adaptive responsive single-page cross-browser web applications.
 
 I want to improve as a front-end developer and work with professionals.<br>
 
-My contacts <br>
+Connect with me: <br>
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin/.svg" />][linkedin]
+<br>
+<br/>
+[linkedin]: https://www.linkedin.com/in/lamara-lanchava-5653251bb/
 email: lamaralanchava@gmail.com <br>
 facebook: https://www.facebook.com/lamara.lanchava/ <br>
 <!--
