@@ -1,11 +1,11 @@
 # Hi, I'm Lamara 👋
 
 ### I'm junior front-end developer from Russia :ru:<br>
-:zap: What I do? <br>
+:zap: What do I do? <br>
 
 ### I create adaptive responsive single-page cross-browser web applications.
 
-:zap: What I use? <br>
+:zap: What do I use? <br>
 
 <img align="left" alt="HTML5" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
