@@ -13,9 +13,10 @@
 <img align="left" alt="React" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <!-- <img align="left" alt="MongoDB" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> -->
 <img align="left" alt="Git" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="65px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="65px" src="https://user-images.githubusercontent.com/58632996/125980781-d353f38c-479e-47d0-9adb-62125bf6c10e.png" />
 <img alt="Terminal" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img alt="Nodejs" width="90px" src="https://user-images.githubusercontent.com/58632996/125951856-102b1f10-c12b-4c73-a8d2-5ba479fb467f.png"/>
+<img align="left" alt="Nodejs" width="90px" src="https://user-images.githubusercontent.com/58632996/125951856-102b1f10-c12b-4c73-a8d2-5ba479fb467f.png" />
+<img alt="MongoDB" width="90px" src="https://user-images.githubusercontent.com/58632996/125980165-677df469-1474-4997-ae94-48c33ee1cfab.png" />
 
 ### I want to improve as a front-end developer and work with professionals.<br>
 
