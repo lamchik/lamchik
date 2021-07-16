@@ -20,10 +20,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Twitter" width="40px" src="https://user-images.githubusercontent.com/58632996/125951636-a8139f32-6854-4693-b8dd-37b51a7fe18f.png" />][twitter]
+[<img align="left" alt="LinkedIn" width="40px" src="https://user-images.githubusercontent.com/58632996/125951536-c2f46165-6ef5-478c-a9d3-2dc0b708b9f8.png" />][linkedin]
+[<img align="left" alt="Instagram" width="40px" src="https://user-images.githubusercontent.com/58632996/125951261-b1e3d8a0-d597-46a4-b4a4-f3337f13bc95.png" />][instagram]
+[<img align="left" alt="Facebook" width="40px" src="https://user-images.githubusercontent.com/58632996/125951423-b293aa18-64c4-4429-9d89-91b79d35ce1b.png"/>][facebook]
 
 <br />
 </details>
