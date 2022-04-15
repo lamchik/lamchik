@@ -1,6 +1,6 @@
 # Hi, I'm Lamara 👋
 
-### I'm junior front-end developer from Russia :ru:<br>
+### I'm junior front-end developer :ru:<br>
 :zap: What do I do? <br>
 
 ### I create adaptive responsive single-page cross-browser web applications.
