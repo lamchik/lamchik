@@ -1,6 +1,6 @@
 # Hi, I'm Lamara 👋
 
-### I'm junior front-end developer:<br>
+### I'm front-end developer<br>
 :zap: What do I do? <br>
 
 ### I create adaptive responsive single-page cross-browser web applications.
