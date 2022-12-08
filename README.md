@@ -18,8 +18,6 @@
 <img align="left" alt="Nodejs" width="90px" src="https://user-images.githubusercontent.com/58632996/125951856-102b1f10-c12b-4c73-a8d2-5ba479fb467f.png" />
 <img alt="MongoDB" width="90px" src="https://user-images.githubusercontent.com/58632996/125980165-677df469-1474-4997-ae94-48c33ee1cfab.png" />
 
-### I want to improve as a front-end developer and work with professionals.<br>
-
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="35px" src="https://user-images.githubusercontent.com/58632996/125951536-c2f46165-6ef5-478c-a9d3-2dc0b708b9f8.png" />][linkedin]
@@ -28,7 +26,6 @@
 <br />
 </details>
 
-[twitter]: https://twitter.com/Lamchik8
 [instagram]: https://www.instagram.com/lamaralanchava/?hl=ru
 [linkedin]: https://www.linkedin.com/in/lamara-lanchava-5653251bb/
 [facebook]: https://www.facebook.com/lamara.lanchava/
